@@ -2,7 +2,7 @@
 """
 Created on Thu Apr 29 15:10:14 2021
 
-@author: vyass
+@author: Param
 """
 
 import librosa
